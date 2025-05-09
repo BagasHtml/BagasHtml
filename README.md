@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello World 👋
+
+I'm Bagas, an amateur developer from SMK Taruna Bangsa, Bekasi City.  
+Still learning, still growing 🚀
+
 
 <!--
 **BagasHtml/BagasHtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
