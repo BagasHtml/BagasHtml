@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 --> 
 
 
-</> I’m currently learning **HTML**
+**</>** I’m currently learning **HTML**
 🌱 I’m currently learning **Css**
 🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas.vercel.app/index.html)
 
