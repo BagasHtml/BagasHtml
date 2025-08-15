@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Css**
 🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
 
-![Eat](https://media.tenor.com/59bz1I8P-80AAAAM/%E9%AD%94%E9%83%BD%E7%B2%BE%E5%85%B5%E7%9A%84%E5%A5%B4%E9%9A%B8-mazu-seihei-no-sureibu.gif)
+![Eat](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3663e444-4c76-4941-840e-997e40870d22/dj4xxjs-0c5bbe71-7dc8-4ef0-a12e-8ca4163b5da6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2NjNlNDQ0LTRjNzYtNDk0MS04NDBlLTk5N2U0MDg3MGQyMlwvZGo0eHhqcy0wYzViYmU3MS03ZGM4LTRlZjAtYTEyZS04Y2E0MTYzYjVkYTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cQhVQYHYdB4RLQdPGuVLFdzcIUwF0yqP6pk4MV5bQ2c)
