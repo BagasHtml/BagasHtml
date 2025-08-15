@@ -1,7 +1,7 @@
 
 # Hello World 👋
 
-I'm Bagas, an amateur developer from SMK Taruna Bangsa, Bekasi City.  
+I'm Bagas Tresna Nanda MS, an amateur developer from SMK Taruna Bangsa, Bekasi City.  
 Still learning, still growing 🚀
 
 
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 **</>** I’m currently learning **HTML**
 🌱 I’m currently learning **Css**
-🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas.vercel.app/index.html)
+🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
 
-![Eat](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
+![Eat](https://media.tenor.com/kb-FisG269IAAAAe/kyouka-uzen-kyouka.png)
