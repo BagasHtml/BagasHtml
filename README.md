@@ -1,41 +1,27 @@
-
-# Hello World 👋
-
-I'm Bagas Tresna Nanda MS, Junior Web Development || Code Learner  
-Still learning, still growing 🚀
+# 💫 About Me:
+🌱 I’m currently learning **HTML** <br><br>🌱 I’m currently learning **Css** <br><br>🌱 I’m currently learning **JavaScript** <br><br>🌱 I'm currently learning **PHP** <br><br>🌱 I'm currently learning **MySql** <br><br>📫 How to reach me: Gmail **bagashtml369@gmail.com** <br><br>🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
 
 
-<!--
-**BagasHtml/BagasHtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BagasHTML) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BagasHtml&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="	https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**</>** I’m currently learning **HTML** <br>
-🌱 I’m currently learning **Css** <br>
-🌱 I’m currently learning **JavaScript** <br>
-🌱 I'm currently learning **PHP** <br>
-🌱 I'm currently learning **MySql** <br>
-📫 How to reach me: Gmail **bagashtml369@gmail.com** <br>
-🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BagasHtml&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Eat](https://media1.tenor.com/m/59bz1I8P-80AAAAC/%E9%AD%94%E9%83%BD%E7%B2%BE%E5%85%B5%E7%9A%84%E5%A5%B4%E9%9A%B8-mazu-seihei-no-sureibu.gif)
+---
+[![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=8&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
