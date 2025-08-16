@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **HTML** <br><br>🌱 I’m currently learning **Css** <br><br>🌱 I’m currently learning **JavaScript** <br><br>🌱 I'm currently learning **PHP** <br><br>🌱 I'm currently learning **MySql** <br><br>📫 How to reach me: Gmail **bagashtml369@gmail.com** <br><br>🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
+🌱 I’m currently learning **HTML** <br><br>🌱 I’m currently learning **Css** <br><br>🌱 I’m currently learning **JavaScript** <br><br>🌱 I'm currently learning **PHP** <br><br>🌱 I'm currently learning **MySql** <br><br><br>🚀 Look My simple Blog Website [**Click Here!**](https://blog-bagas2.vercel.app/)
 
 
 ## 🌐 Socials:
