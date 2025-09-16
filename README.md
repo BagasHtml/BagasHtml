@@ -1,6 +1,6 @@
 <!-- Banner Anime -->
 <p align="center">
-  <img src="https://media.tenor.com/Tb2Q_BpQzPQAAAAd/anime-code.gif" width="600" alt="Anime Banner">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/banner.gif" width="600" alt="Anime Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Bagas Tresna Nanda MS</h1>
@@ -12,12 +12,12 @@
 - 🎓 Student at **Vocational High School Taruna Bangsa, Bekasi**
 - 🌍 From **North Bekasi, West Java – Indonesia**
 - 🚀 Focus: **JavaScript, PHP, Astro Build, MySQL**
-- 🐧 Daily Driver: **Ubuntu**
+- 🐧 Daily Driver: **Ubuntu & Windows 11**
 - 🌱 Currently learning: **Frontend development & Tailwind CSS**
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
 <p align="center">
-  <img src="https://media.tenor.com/v9KDCtXl6HwAAAAd/anime-smile.gif" width="300">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/smile.gif" width="300">
 </p>
 
 ---
@@ -53,9 +53,10 @@
 
 ### 💻 Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <p align="center">
-  <img src="https://media.tenor.com/-uC3zN44yKgAAAAd/programming-anime.gif" width="300">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/coding.gif" width="300">
 </p>
 
 ---
@@ -72,18 +73,11 @@
 
 ---
 
-## 🎶 Now Playing (Anime Vibes)
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.vercel.app/api/view?uid=31ht5k4kkzntzuw2d5i5ir3r2vpm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
 ## ✨ Anime Corner
 <p align="center">
-  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/anime-girl.gif" width="250">
-  <img src="https://media.tenor.com/xOj1QyGrYQ8AAAAC/nezuko-anime.gif" width="250">
-  <img src="https://media.tenor.com/Zw2KJt-fyp4AAAAd/anime-girl-wink.gif" width="250">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime1.gif" width="250">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime2.gif" width="250">
+  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime3.gif" width="250">
 </p>
 
 ---
