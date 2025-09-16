@@ -1,6 +1,6 @@
 <!-- Banner Anime -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/banner.gif" width="600" alt="Anime Banner">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="600" alt="Anime Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Bagas Tresna Nanda MS</h1>
@@ -17,7 +17,7 @@
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/smile.gif" width="300">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="300">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/coding.gif" width="300">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="300">
 </p>
 
 ---
@@ -75,9 +75,9 @@
 
 ## ✨ Anime Corner
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime1.gif" width="250">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime2.gif" width="250">
-  <img src="https://raw.githubusercontent.com/BagasHtml/BagasHtml/main/assets/anime3.gif" width="250">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
+  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
 </p>
 
 ---
