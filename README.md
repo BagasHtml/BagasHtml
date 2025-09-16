@@ -1,61 +1,89 @@
-# 💫 About Me:
-Hello, I'm **Bagas Tresna Nanda MS** 👋  
-From **North Bekasi, West Java – Indonesia** 🌏  
+<!-- Profile README BagasHtml -->
 
-🎓 Student at **Vocational High School Taruna Bangsa, Bekasi City**  
-💻 Focused on: **JavaScript, PHP, Astro Build, MySQL**  
+<!-- Banner Anime -->
+<p align="center">
+  <img src="https://i.waifu.pics/ny~.gif" width="600" alt="Anime Banner">
+</p>
 
-✨ Always learning & exploring new things in tech!  
-
----
-
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@BagasHtml) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)  
+<h1 align="center">Hi 👋, I'm Bagas Tresna Nanda MS</h1>
+<h3 align="center">💻 Student | Frontend Explorer | Anime Enthusiast</h3>
 
 ---
 
-# 💻 Tech Stack:
-### 🖥️ Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-### ⚙️ Tools & Runtime
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-
-### 💻 Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+## 🌸 About Me
+- 🎓 Student at **Vocational High School Taruna Bangsa, Bekasi**
+- 🌍 From **North Bekasi, West Java – Indonesia**
+- 🚀 Focus: **JavaScript, PHP, Astro Build, MySQL**
+- 🐧 Daily Driver: **Ubuntu & Linux Mint**, also using **Windows 11**
+- 🌱 Currently learning: **Frontend development & Tailwind CSS**
+- 🎮 Fun fact: I enjoy watching anime while coding ⛩️
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/bagas_tresnaa_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://tiktok.com/@BagasHtml"><img src="https://skillicons.dev/icons?i=tiktok" /></a>
+  <a href="mailto:bagashtml369@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💻 Tech Stack
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,bootstrap,astro,nodejs,npm" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vercel,apache,linux,ubuntu" />
+  <br/>
+  <!-- Extra -->
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+## 🎶 Now Playing (Anime Vibes)
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.vercel.app/api/view?uid=31ht5k4kkzntzuw2d5i5ir3r2vpm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+---
+
+## ✨ Anime Corner
+<p align="center">
+  <img src="https://i.waifu.pics/Kd8UQgb.gif" width="250">
+  <img src="https://i.waifu.pics/Lv46nBL.gif" width="250">
+  <img src="https://i.waifu.pics/~9bX6~v.gif" width="250">
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://visitcount.itsvg.in/api?id=BagasHtml&icon=2&color=6" alt="Profile Views" /> 
+</p>
