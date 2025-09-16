@@ -55,8 +55,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-<p align="center">
-  <img src="https://i.imgur.com/r5tOZbP.gif" width="300">
+<p align="left">
+  <img src="https://i2.wp.com/78.media.tumblr.com/6ff538ad137f8d1b7d0a9ad45d436609/tumblr_p2cpqrtIor1qkz08qo1_540.gif?resize=670%2C377" width="400">
 </p>
 
 ---
