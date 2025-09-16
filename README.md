@@ -71,15 +71,4 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## ✨ Anime Corner
-<p align="center">
-  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
-  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
-  <img src="https://i.imgur.com/r5tOZbP.gif" width="250">
-</p>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=6)](https://visitcount.itsvg.in)
