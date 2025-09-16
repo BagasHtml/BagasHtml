@@ -17,7 +17,7 @@
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
 <p align="center">
-  <img src="https://i.imgur.com/r5tOZbP.gif" width="300">
+  <img src="https://i.imgur.com/ZsFBnoJ.gif" width="300">
 </p>
 
 ---
