@@ -16,8 +16,8 @@
 - 🌱 Currently learning: **Frontend development & Tailwind CSS**
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
-<p align="center">
-  <img src="https://i.imgur.com/ZsFBnoJ.gif" width="300">
+<p align="right">
+  <img src="https://i.imgur.com/ZsFBnoJ.gif" width="400">
 </p>
 
 ---
