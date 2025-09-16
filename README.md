@@ -1,6 +1,6 @@
 <!-- Banner Anime -->
 <p align="center">
-  <img src="https://i.waifu.pics/ny~.gif" width="600" alt="Anime Banner">
+  <img src="https://media.tenor.com/Tb2Q_BpQzPQAAAAd/anime-code.gif" width="600" alt="Anime Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Bagas Tresna Nanda MS</h1>
@@ -12,12 +12,12 @@
 - 🎓 Student at **Vocational High School Taruna Bangsa, Bekasi**
 - 🌍 From **North Bekasi, West Java – Indonesia**
 - 🚀 Focus: **JavaScript, PHP, Astro Build, MySQL**
-- 🐧 Daily Driver: **Ubuntu & Linux Mint**, also using **Windows 11**
+- 🐧 Daily Driver: **Ubuntu**
 - 🌱 Currently learning: **Frontend development & Tailwind CSS**
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
 <p align="center">
-  <img src="https://i.waifu.pics/4~2Bt4V.gif" width="300">
+  <img src="https://media.tenor.com/v9KDCtXl6HwAAAAd/anime-smile.gif" width="300">
 </p>
 
 ---
@@ -30,9 +30,6 @@
 ---
 
 # 💻 Tech Stack
-<p align="center">
-  <img src="https://i.waifu.pics/BoUm0Kz.gif" width="200">
-</p>
 
 ### 🖥️ Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -55,9 +52,11 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 
 ### 💻 Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<p align="center">
+  <img src="https://media.tenor.com/-uC3zN44yKgAAAAd/programming-anime.gif" width="300">
+</p>
 
 ---
 
@@ -82,12 +81,9 @@
 
 ## ✨ Anime Corner
 <p align="center">
-  <img src="https://i.waifu.pics/Kd8UQgb.gif" width="250">
-  <img src="https://i.waifu.pics/Lv46nBL.gif" width="250">
-  <img src="https://i.waifu.pics/~9bX6~v.gif" width="250">
-  <br/>
-  <img src="https://i.waifu.pics/74ANxPu.gif" width="250">
-  <img src="https://i.waifu.pics/fp~9A9Z.gif" width="250">
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/anime-girl.gif" width="250">
+  <img src="https://media.tenor.com/xOj1QyGrYQ8AAAAC/nezuko-anime.gif" width="250">
+  <img src="https://media.tenor.com/Zw2KJt-fyp4AAAAd/anime-girl-wink.gif" width="250">
 </p>
 
 ---
