@@ -17,7 +17,7 @@
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
 <p align="right">
-  <img src="https://i.imgur.com/ZsFBnoJ.gif" width="400">
+  <img src="https://i.imgur.com/ZsFBnoJ.gi" width="400">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <p align="left">
-  <img src="https://i2.wp.com/78.media.tumblr.com/6ff538ad137f8d1b7d0a9ad45d436609/tumblr_p2cpqrtIor1qkz08qo1_540.gif?resize=670%2C377" width="400">
+  <img src="https://media.tenor.com/TdCu1_KQmAcAAAAe/kaoruko-waguri-kaoruko.png" width="400">
 </p>
 
 ---
