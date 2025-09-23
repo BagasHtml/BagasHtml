@@ -56,7 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <p align="left">
-  <img src="https://media.tenor.com/TdCu1_KQmAcAAAAe/kaoruko-waguri-kaoruko.gif" width="400">
+  <img src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAd/kaoruko-waguri-kaoruko.gif" width="400">
 </p>
 
 ---
