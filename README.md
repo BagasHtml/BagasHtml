@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bagas Tresna Nanda MS</h1>
-<h3 align="center">💻 Student | Frontend Explorer | Anime Enthusiast</h3>
+<h3 align="center">💻 Student | Code Learner | Anime Enthusiast</h3>
 
 ---
 
