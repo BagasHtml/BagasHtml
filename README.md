@@ -62,9 +62,9 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=tokyonight&hide_border=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -72,3 +72,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
