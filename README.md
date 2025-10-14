@@ -12,7 +12,7 @@
 - 🎓 Student at **Vocational High School Taruna Bangsa, Bekasi**
 - 🌍 From **North Bekasi, West Java – Indonesia**
 - 🚀 Focus: **JavaScript, PHP, Astro Build, MySQL**
-- 🐧 Daily Driver: **Ubuntu & Windows 11**
+- 🐧 Daily Driver: **Arch & Windows 11**
 - 🌱 Currently learning: **Frontend development & Tailwind CSS**
 - 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
 
@@ -52,7 +52,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 
 ### 💻 Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=arch&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 <p align="left">
