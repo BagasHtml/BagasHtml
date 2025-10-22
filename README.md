@@ -75,7 +75,6 @@ $me->output();
 <p align="left">
   <img src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAd/kaoruko-waguri-kaoruko.gif" width="400">
 </p>
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
