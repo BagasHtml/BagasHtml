@@ -61,10 +61,28 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### Introduction (PHP Version)
+```php
+<?php
+class Bagas {
+    public $skill;
+
+    public function __construct() {
+        $this->skill = "HTML, CSS, JavaScript, PHP, MySQL, Astro, Vercel, Canva";
+    }
+
+    public function setSkill($newSkill) {
+        $this->skill = $newSkill;
+    }
+
+    public function outputSkill() {
+       echo "Hello Everyone!, i'm Bagas, and this my skill: " . $this->skill;
+    }
+}
+
+$me = new Bagas();
+$me->outputSkill();
+?>
 
 ---
 
