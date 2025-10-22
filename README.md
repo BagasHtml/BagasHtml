@@ -65,23 +65,15 @@
 ```php
 <?php
 class Bagas {
-    public $skill;
+    public $skill = "HTML, Css, Js, Astro, Canva, Vercel, MySQL.";
 
-    public function __construct() {
-        $this->skill = "HTML, CSS, JavaScript, PHP, MySQL, Astro, Vercel, Canva";
-    }
-
-    public function setSkill($newSkill) {
-        $this->skill = $newSkill;
-    }
-
-    public function outputSkill() {
-       echo "Hello Everyone!, i'm Bagas, and this my skill: " . $this->skill;
+    public function output() {
+      echo "Hello everyone, I'm Bagas, and this my skill: " . $this->skill;
     }
 }
 
 $me = new Bagas();
-$me->outputSkill();
+$me->output();
 ?>
 ```
 ---
