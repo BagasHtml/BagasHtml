@@ -14,7 +14,24 @@
 - 🚀 Focus: **JavaScript, PHP, Astro Build, MySQL**
 - 🐧 Daily Driver: **Arch & Windows 11**
 - 🌱 Currently learning: **Frontend development & Tailwind CSS**
-- 🎮 Fun fact: I enjoy watching anime while coding ⛩️  
+
+---
+
+### Introduction (PHP Version)
+```php
+<?php
+class Bagas {
+    public $skill = "HTML, Css, Js, Astro, Canva, Vercel, MySQL.";
+
+    public function output() {
+      echo "Hello everyone, I'm Bagas, and this my skill: " . $this->skill;
+    }
+}
+
+$me = new Bagas();
+$me->output();
+?>
+```
 
 <p align="right">
   <img src="https://i.imgur.com/ZsFBnoJ.gif" width="400">
@@ -58,24 +75,6 @@
 <p align="left">
   <img src="https://media1.tenor.com/m/TdCu1_KQmAcAAAAd/kaoruko-waguri-kaoruko.gif" width="400">
 </p>
-
----
-
-### Introduction (PHP Version)
-```php
-<?php
-class Bagas {
-    public $skill = "HTML, Css, Js, Astro, Canva, Vercel, MySQL.";
-
-    public function output() {
-      echo "Hello everyone, I'm Bagas, and this my skill: " . $this->skill;
-    }
-}
-
-$me = new Bagas();
-$me->output();
-?>
-```
 ---
 
 ## ✍️ Random Dev Quote
