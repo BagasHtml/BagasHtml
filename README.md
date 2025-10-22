@@ -83,7 +83,7 @@ class Bagas {
 $me = new Bagas();
 $me->outputSkill();
 ?>
-
+```
 ---
 
 ## ✍️ Random Dev Quote
