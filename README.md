@@ -3,7 +3,7 @@
 🌍 From North Bekasi, West Java – Indonesia<br>
 🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>
 🐧 Daily Driver: Arch & Windows 11<br>
-🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
+🌱 Learning Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
 <br>
 # Introduction TypeScript Version:
 ```ts
