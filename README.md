@@ -4,7 +4,7 @@
 🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>
 🐧 Daily Driver: Arch & Windows 11<br>
 🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
----
+<br>
 # Introduction TypeScript Version:
 ```ts
 class Introduction {
@@ -101,7 +101,7 @@ B.showTech();
 **Feel free to reach out if you want to collaborate or just have a chat!**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bagashtml369@gmail.com)
 
 </div>
 
@@ -122,4 +122,3 @@ B.showTech();
 **Thanks for visiting! Have a great day! 😊**
 
 </div>
-```
