@@ -1,62 +1,3 @@
-Saya buatkan README yang lebih modern dan eye-catching untuk GitHub profile Anda! 🚀
-
-```markdown
-<div align="center">
-  
-# 👋 Hi, I'm Bagas Tresna Nanda MS
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Vocational+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://instagram.com/bagas_tresnaa_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/BagasHtml">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🎯 About Me
-
-```typescript
-class Developer {
-  name: string = "Bagas Tresna Nanda MS";
-  location: string = "North Bekasi, West Java 🇮🇩";
-  school: string = "SMK Taruna Bangsa, Bekasi";
-  role: string = "Full Stack Developer";
-  
-  workstation: {
-    os: ["Arch Linux 🐧", "Windows 11 💻"],
-    editor: "VS Code",
-    terminal: "Windows Terminal & Alacritty"
-  };
-  
-  currentlyLearning: string[] = [
-    "Advanced Laravel Techniques",
-    "TypeScript Best Practices",
-    "Database Optimization"
-  ];
-  
-  techStack() {
-    return {
-      frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Astro"],
-      backend: ["PHP", "Laravel", "Node.js"],
-      styling: ["Tailwind CSS", "Bootstrap"],
-      database: ["MySQL", "MariaDB", "SQLite"],
-      tools: ["Git", "Apache", "Vercel", "PowerShell"]
-    };
-  }
-  
-  hobbies: string[] = ["🎮 Gaming", "💻 Coding", "🎨 Design", "📚 Reading Tech Blogs"];
-}
-
-const bagas = new Developer();
-console.log(bagas.techStack());
-```
 
 ---
 
@@ -98,8 +39,7 @@ console.log(bagas.techStack());
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BagasHtml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
