@@ -1,6 +1,25 @@
 # 💫 About Me:
 🎓 Student at Vocational High School Taruna Bangsa, Bekasi<br>🌍 From North Bekasi, West Java – Indonesia<br>🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>🐧 Daily Driver: Arch & Windows 11<br>🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
 
+##Introduction TypeScript Version
+```
+class Introduction {
+    name: string = "Bagas Tresna Nanda MS";
+    techStack: string = "Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS"
+
+    showName() {
+        console.log(`Hello, I'm ${this.name}`);
+    }
+
+    showTech() {
+        console.log(`And this my TechStack: ${this.techStack}`);
+    }
+}
+
+const B = new Introduction();
+B.showName();
+B.showTech();
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_) 
