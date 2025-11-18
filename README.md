@@ -5,6 +5,34 @@
 🐧 Daily Driver: Arch & Windows 11  
 
 ---
+Introduction PHP Version:
+```
+class Introduction {
+    public $name = "Bagas Tresna Nanda MS";
+    public $techStack = "Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS";
+    
+    public function setName($name) {
+        $this->name = $name;
+    }
+
+    public function getName() {
+        return "Hello People, I'm $this->name";
+    }
+
+    public function TechStack($techStack) {
+        $this->techStack = $techStack;
+    }
+
+    public function getTech() {
+        return "And this, my Tech Stack: $this->techStack";
+    }
+}
+
+$I = new Introduction();
+echo $I->getName() . "<br>";
+echo $I->getTech();
+?>
+```
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)  
