@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Student at Vocational High School Taruna Bangsa, Bekasi<br>🌍 From North Bekasi, West Java – Indonesia<br>🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>🐧 Daily Driver: Arch & Windows 11<br>🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
 
-#Introduction TypeScript Version
+# Introduction TypeScript Version
 ```
 class Introduction {
     name: string = "Bagas Tresna Nanda MS";
