@@ -1,5 +1,31 @@
-
+# 💫 About Me:
+🎓 Student at Vocational High School Taruna Bangsa, Bekasi
+🌍 From North Bekasi, West Java – Indonesia
+🚀 Focus: JavaScript, PHP, Astro Build, MySQL
+🐧 Daily Driver: Arch & Windows 11
+🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS
 ---
+
+# Introduction TypeScript Version:
+---
+```ts
+class Introduction {
+    name: string = "Bagas Tresna Nanda MS";
+    techStack: string = "Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS";
+
+    showName() {
+        console.log(`Hello, I'm ${this.name}`);
+    }
+
+    showTech() {
+        console.log(`And this my TechStack: ${this.techStack}`);
+    }
+}
+
+const B = new Introduction();
+B.showName();
+B.showTech();
+```
 
 ## 🛠️ Tech Stack
 
@@ -68,28 +94,6 @@
 [![Bagas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BagasHtml&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```diff
-+ 🔭 Building full-stack web applications with Laravel & Astro
-+ 🌱 Deepening knowledge in TypeScript & modern JavaScript
-+ 👯 Open to collaborate on open source projects
-+ 💬 Ask me about: Web Development, PHP, JavaScript, MySQL
-+ ⚡ Fun fact: I use Arch BTW 🐧
-```
-
----
-
-## 💼 What I'm Working On
-
-- 🚀 **Personal Projects**: Building modern web apps with Astro & Laravel
-- 📚 **Learning**: Advanced TypeScript patterns & database optimization
-- 🎨 **Design**: Creating responsive UIs with Tailwind CSS
-- 🔧 **DevOps**: Exploring deployment strategies with Vercel
-
 ---
 
 ## 📫 Let's Connect!
