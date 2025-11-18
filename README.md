@@ -63,7 +63,7 @@ B.showTech();
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br> ![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/><br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
