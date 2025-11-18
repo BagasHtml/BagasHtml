@@ -1,37 +1,183 @@
-# 💫 About Me:
-🎓 Student at Vocational High School Taruna Bangsa, Bekasi<br>🌍 From North Bekasi, West Java – Indonesia<br>🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>🐧 Daily Driver: Arch & Windows 11<br>🌱 Tech Stack: Js, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
+Saya buatkan README yang lebih modern dan eye-catching untuk GitHub profile Anda! 🚀
 
-# Introduction TypeScript Version
-```ts
-class Introduction {
-    name: string = "Bagas Tresna Nanda MS";
-    techStack: string = "Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS"
+```markdown
+<div align="center">
+  
+# 👋 Hi, I'm Bagas Tresna Nanda MS
 
-    showName() {
-        console.log(`Hello, I'm ${this.name}`);
-    }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Vocational+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 
-    showTech() {
-        console.log(`And this my TechStack: ${this.techStack}`);
-    }
-}
+<p align="center">
+  <a href="https://instagram.com/bagas_tresnaa_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/BagasHtml">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-const B = new Introduction();
-B.showName();
-B.showTech();
-```
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+```typescript
+class Developer {
+  name: string = "Bagas Tresna Nanda MS";
+  location: string = "North Bekasi, West Java 🇮🇩";
+  school: string = "SMK Taruna Bangsa, Bekasi";
+  role: string = "Full Stack Developer";
+  
+  workstation: {
+    os: ["Arch Linux 🐧", "Windows 11 💻"],
+    editor: "VS Code",
+    terminal: "Windows Terminal & Alacritty"
+  };
+  
+  currentlyLearning: string[] = [
+    "Advanced Laravel Techniques",
+    "TypeScript Best Practices",
+    "Database Optimization"
+  ];
+  
+  techStack() {
+    return {
+      frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "Astro"],
+      backend: ["PHP", "Laravel", "Node.js"],
+      styling: ["Tailwind CSS", "Bootstrap"],
+      database: ["MySQL", "MariaDB", "SQLite"],
+      tools: ["Git", "Apache", "Vercel", "PowerShell"]
+    };
+  }
+  
+  hobbies: string[] = ["🎮 Gaming", "💻 Coding", "🎨 Design", "📚 Reading Tech Blogs"];
+}
+
+const bagas = new Developer();
+console.log(bagas.techStack());
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### 💻 Operating Systems
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BagasHtml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BagasHtml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Bagas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BagasHtml&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```diff
++ 🔭 Building full-stack web applications with Laravel & Astro
++ 🌱 Deepening knowledge in TypeScript & modern JavaScript
++ 👯 Open to collaborate on open source projects
++ 💬 Ask me about: Web Development, PHP, JavaScript, MySQL
++ ⚡ Fun fact: I use Arch BTW 🐧
+```
+
+---
+
+## 💼 What I'm Working On
+
+- 🚀 **Personal Projects**: Building modern web apps with Astro & Laravel
+- 📚 **Learning**: Advanced TypeScript patterns & database optimization
+- 🎨 **Design**: Creating responsive UIs with Tailwind CSS
+- 🔧 **DevOps**: Exploring deployment strategies with Vercel
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Feel free to reach out if you want to collaborate or just have a chat!**
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+**Thanks for visiting! Have a great day! 😊**
+
+</div>
+```
