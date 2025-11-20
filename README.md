@@ -1,72 +1,107 @@
-# 💫 About Me:
-🎓 Student at Vocational High School Taruna Bangsa, Bekasi<br>
-🌍 From North Bekasi, West Java – Indonesia<br>
-🚀 Focus: JavaScript, PHP, Astro Build, MySQL<br>
-🐧 Daily Driver: Arch & Windows 11<br>
-🌱 Learning Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS<br>
-<br>
-# Introduction TypeScript Version:
-```ts
-class Introduction {
-    name: string = "Bagas Tresna Nanda MS";
-    techStack: string = "Js, Ts, Node.Js, MySQL, PHP, Tailwind, Bootstrap, Astro, Laravel, HTML, CSS";
+<div align="center">
 
-    showName() {
-        console.log(`Hello, I'm ${this.name}`);
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bagas%20Tresna%20Nanda%20MS&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+</div>
+
+## 👨‍💻 About Me
+
+```typescript
+class Learner {
+    private readonly profile = {
+        name: "Bagas Tresna Nanda MS",
+        role: "Learner",
+        school: "Vocational High School Taruna Bangsa, Bekasi",
+        location: "North Bekasi, West Java – Indonesia",
+        systems: ["Arch Linux", "Windows 11"],
+        focus: ["JavaScript", "PHP", "Astro Build", "MySQL"]
+    };
+
+    private readonly techStack: string[] = [
+        "JavaScript", "TypeScript", "Node.js", "MySQL",
+        "PHP", "Tailwind", "Bootstrap", "Astro", 
+        "Laravel", "HTML", "CSS"
+    ];
+
+    public introduce(): void {
+        console.log(`Hello! I'm ${this.profile.name}`);
+        console.log(`Currently learning: ${this.techStack.join(", ")}`);
     }
 
-    showTech() {
-        console.log(`And this my TechStack: ${this.techStack}`);
+    public getLocation(): string {
+        return `📍 ${this.profile.location}`;
     }
 }
 
-const B = new Introduction();
-B.showName();
-B.showTech();
+const bagas = new Learner();
+bagas.introduce();
+bagas.getLocation();
 ```
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
+### 🎯 Current Focus
+
+🚀 Building modern web applications  
+🌱 Expanding full-stack expertise  
+💡 Exploring new technologies daily  
+🐧 Linux & Open Source enthusiast
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### 💻 Operating Systems
+### Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br> [](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180"/>
 
 </div>
-## 📈 Contribution Graph
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -74,14 +109,14 @@ B.showTech();
 
 </div>
 
-## 📫 Let's Connect!
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-**Feel free to reach out if you want to collaborate or just have a chat!**
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bagashtml369@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)
 
 </div>
 
@@ -89,16 +124,16 @@ B.showTech();
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Daily Inspiration
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
+### 👁️ Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
-**Thanks for visiting! Have a great day! 😊**
+**Thanks for stopping by! Let's build something amazing together! 🚀**
 
 </div>
