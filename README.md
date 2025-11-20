@@ -63,7 +63,7 @@ B.showTech();
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br> ![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/><br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br> ![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=dark&hide_border=false)<br/><br> !
 
 </div>
 
@@ -72,17 +72,6 @@ B.showTech();
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BagasHtml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
