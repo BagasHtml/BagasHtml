@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bagas%20Tresna%20Nanda%20MS&fontSize=50&fontAlignY=35&desc=Co%20de%20Learner&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bagas%20Tresna%20Nanda%20MS&fontSize=50&fontAlignY=35&desc=Code%20Learner&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
