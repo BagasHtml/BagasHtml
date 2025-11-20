@@ -78,10 +78,9 @@ B.showTech();
 
 <div align="center">
 
-[![Bagas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BagasHtml&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[[Bagas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BagasHtml&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=F59E0B&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
----
 
 ## 📫 Let's Connect!
 
