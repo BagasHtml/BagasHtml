@@ -43,7 +43,7 @@ bagas.getLocation();
 ### 🎯 Current Focus
 
 🚀 Building modern web applications  
-🌱 Learning about PHP, Js, Ts, Laravel, Tailwind, Node.Js
+🌱 Learning about PHP, Js, Ts, Laravel, Tailwind, Node.Js<br>
 💡 Exploring new technologies daily  
 🐧 Linux & Open Source enthusiast
 
