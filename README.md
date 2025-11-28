@@ -81,6 +81,11 @@ bagas.getLocation();
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
+### AI & Productivity Tools
+![ChatGPT] - Badge OpenAI
+![Claude] - Badge Anthropic  
+![GitHub Copilot] - Badge GitHub
+
 ### Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
