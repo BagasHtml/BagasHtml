@@ -93,8 +93,6 @@ bagas.getLocation();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180"/>
 
 </div>
