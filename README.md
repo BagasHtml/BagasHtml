@@ -6,36 +6,25 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-class Learner {
-    private readonly profile = {
-        name: "Bagas Tresna Nanda MS",
-        role: "Learner",
-        school: "Vocational High School Taruna Bangsa, Bekasi",
-        location: "North Bekasi, West Java – Indonesia",
-        systems: ["Arch Linux", "Windows 11"],
-        focus: ["JavaScript", "PHP", "Astro Build", "MySQL"]
-    };
+```PHP
+<?php 
+class Introduction {
+    public $nama = "Bagas Tresna Nanda MS";
+    public $techStack = ["PHP", "MySQL", "NodeJs", "JavaScript", "TypeScript", "Canva", "Laravel", "Tailwind", "Bootstrap"];
 
-    private readonly techStack: string[] = [
-        "JavaScript", "TypeScript", "Node.js", "MySQL",
-        "PHP", "Tailwind", "Bootstrap", "Astro", 
-        "Laravel", "HTML", "CSS"
-    ];
-
-    public introduce(): void {
-        console.log(`Hello! I'm ${this.profile.name}`);
-        console.log(`Currently learning: ${this.techStack.join(", ")}`);
+    public function __construct() {
+        echo "Hello People. I'm " . $this->nama;
     }
 
-    public getLocation(): string {
-        return `📍 ${this.profile.location}`;
+    public function techStack() {
+        echo "And this, my Tech Stack " . implode(',' , $this->techStack);
     }
 }
 
-const bagas = new Learner();
-bagas.introduce();
-bagas.getLocation();
+$i = new Introduction();
+
+$i->techStack();
+?>
 ```
 
 <div align="center">
