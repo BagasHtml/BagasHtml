@@ -4,42 +4,40 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Introduction TypeScript Version
 
-```PHP
-<?php 
+```TypeScript
 class Introduction {
-    public $name = "Bagas Tresna Nanda MS";
-    public $techStack = ["PHP", "MySQL", "NodeJs", "JavaScript", "TypeScript", "Laravel", "Tailwind", "Bootstrap"];
-    public $tools = ["GIT", "Canva", "VsCode", "Vercel", "Apache", "GitHub"];
-    public $operationSystem = ["Arch Linux", "Windows 11"];
+    public name:string = "Bagas Tresna Nanda MS";
+    public techStack:string[] = ["HTML", "Css", "JavaScript", "TypeScript", "PHP", "Laravel", "Tailwind", "Bootstrap", "MySQL", "NodeJs"];
+    public tools:string[] = ["VsCode", "Canva", "Git", "GitHub", "XAMPP", "NPM"];
+    public operationSystem:string[] = ["Arch Linux", "Windows 11"];
 
-    public function __construct() {
-        $this->showName();
-        $this->showTechStack();
-        $this->showTools();
-        $this->showOperationSystem();
+    constructor() {
+        this.showName();
+        this.showTech();
+        this.showTools();
+        this.showOS();
     }
 
-    public function showName() {
-        echo "Hello People. I'm " . $this->name . "<br>";
+    showName() {
+        console.log(`Hello People. I'm ${this.name}`);
     }
 
-    public function showTechStack() {
-        echo "And this, my Tech Stack: " . implode(', ' , $this->techStack) . "<br>";
+    showTech() {
+        console.log(`This my TechStack: ${this.techStack}`);
     }
 
-    public function showTools() {
-        echo "The Tools I use: " . implode(', ', $this->tools) . "<br>";
+    showTools() {
+        console.log(`Tools I use: ${this.tools}`);
     }
 
-    public function showOperationSystem() {
-        echo "The Operation System I use: " . implode(', ', $this->operationSystem) . "<br>";
+    showOS() {
+        console.log(`OS I use: ${this.operationSystem}`);
     }
 }
 
-$i = new Introduction();
-?>
+const i = new Introduction();
 ```
 
 <div align="center">
