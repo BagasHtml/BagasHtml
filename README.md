@@ -25,15 +25,15 @@ class Introduction {
     }
 
     showTech() {
-        console.log(`This my TechStack: ${this.techStack}`);
+        console.log(`This my TechStack: ${this.techStack.join(',' )}`);
     }
 
     showTools() {
-        console.log(`Tools I use: ${this.tools}`);
+        console.log(`Tools I use: ${this.tools.join(',' )}`);
     }
 
     showOS() {
-        console.log(`OS I use: ${this.operationSystem}`);
+        console.log(`OS I use: ${this.operationSystem.join(', ')}`);
     }
 }
 
