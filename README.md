@@ -10,20 +10,31 @@
 <?php 
 class Introduction {
     public $nama = "Bagas Tresna Nanda MS";
-    public $techStack = ["PHP", "MySQL", "NodeJs", "JavaScript", "TypeScript", "Canva", "Laravel", "Tailwind", "Bootstrap"];
+    public $techStack = ["PHP", "MySQL", "NodeJs", "JavaScript", "TypeScript", "Laravel", "Tailwind", "Bootstrap"];
+    public $tools = ["GIT", "Canva", "VsCode", "Vercel", "Apache", "GitHub"];
+    public $operationSystem = ["Arch Linux", "Windows 11"];
 
     public function __construct() {
         echo "Hello People. I'm " . $this->nama;
     }
 
     public function techStack() {
-        echo "And this, my Tech Stack " . implode(',' , $this->techStack);
+        echo "And this, my Tech Stack " . implode(', ' , $this->techStack);
     }
+
+    public function tools() {
+        echo "The Tools I use: " . implode(', ', $this->tools);
+    }
+
+    public function operationSystem() {
+        echo "The Operation System I use: " . implode(', ', $this->operationSystem);
 }
 
 $i = new Introduction();
 
 $i->techStack();
+$i->tools();
+$i->operationSystem();
 ?>
 ```
 
@@ -69,11 +80,6 @@ $i->techStack();
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-### AI & Productivity Tools
-![ChatGPT] - Badge OpenAI
-![Claude] - Badge Anthropic  
-![GitHub Copilot] - Badge GitHub
 
 ### Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
