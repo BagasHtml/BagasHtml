@@ -9,32 +9,36 @@
 ```PHP
 <?php 
 class Introduction {
-    public $nama = "Bagas Tresna Nanda MS";
+    public $name = "Bagas Tresna Nanda MS";
     public $techStack = ["PHP", "MySQL", "NodeJs", "JavaScript", "TypeScript", "Laravel", "Tailwind", "Bootstrap"];
     public $tools = ["GIT", "Canva", "VsCode", "Vercel", "Apache", "GitHub"];
     public $operationSystem = ["Arch Linux", "Windows 11"];
 
     public function __construct() {
-        echo "Hello People. I'm " . $this->nama;
+        $this->showName();
+        $this->showTechStack();
+        $this->showTools();
+        $this->showOperationSystem();
     }
 
-    public function techStack() {
-        echo "And this, my Tech Stack " . implode(', ' , $this->techStack);
+    public function showName() {
+        echo "Hello People. I'm " . $this->name . "<br>";
     }
 
-    public function tools() {
-        echo "The Tools I use: " . implode(', ', $this->tools);
+    public function showTechStack() {
+        echo "And this, my Tech Stack: " . implode(', ' , $this->techStack) . "<br>";
     }
 
-    public function operationSystem() {
-        echo "The Operation System I use: " . implode(', ', $this->operationSystem);
+    public function showTools() {
+        echo "The Tools I use: " . implode(', ', $this->tools) . "<br>";
+    }
+
+    public function showOperationSystem() {
+        echo "The Operation System I use: " . implode(', ', $this->operationSystem) . "<br>";
+    }
 }
 
 $i = new Introduction();
-
-$i->techStack();
-$i->tools();
-$i->operationSystem();
 ?>
 ```
 
