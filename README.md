@@ -72,8 +72,8 @@
 </div>
 
 <div align="center">
-    <!-- GitHub Profile Summary Cards -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagasHtml&theme=dracula)
+    <!-- Tambahin parameter &cache_seconds=1800 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=panda&hide_border=false&cache_seconds=1800)
 </div>
 
 ## 📈 Contribution Graph
