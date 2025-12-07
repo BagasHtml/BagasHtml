@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Ngoding aja dulu, jago belakangan.
+# 👋 Ngoding Dulu, Jagonya Belakangan!
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
@@ -35,6 +35,15 @@ class Developer {
 
 new Developer();
 ```
+
+<div align="center">
+
+**Engineer** 🔧 | **Content Creator** 🎥 | **Tech Enthusiast** 💡
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -68,9 +77,10 @@ new Developer();
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="165"/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/BagasHtml)
 
 </div>
+
 ---
 
 ## 📈 Contribution Graph
