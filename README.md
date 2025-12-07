@@ -41,27 +41,6 @@
 @endphp
 ```
 
-<div align="center">
-
-**Engineer** 🔧 | **Content Creator** 🎥 | **Tech Enthusiast** 💡
-
-</div>
-
----
-
-## 🌐 Socials
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Bagas Html)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@bagas resna ch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -99,7 +78,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=panda&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=panda&hide_border=false" height="180"/>
 
 </div>
 
