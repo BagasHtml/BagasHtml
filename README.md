@@ -116,12 +116,13 @@ const i = new Introduction();
 <div align="center">
 
   <img 
-    src="https://readme-stats.clckblog.space/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
     alt="Top Languages"
     width="400"
   />
 
 </div>
+
 ---
 
 ## 🤝 Connect With Me
