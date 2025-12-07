@@ -71,6 +71,10 @@
 
 </div>
 
+<div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagashtml&layout=compact&theme=panda&hide_border=false)
+</div>
+
 ## 📈 Contribution Graph
 
 <div align="center">
