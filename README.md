@@ -116,12 +116,13 @@ const i = new Introduction();
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
+    src="https://stats.anuraghazra.dev/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight"
     alt="Top Languages"
     width="400"
   />
 
 </div>
+
 
 ---
 
