@@ -114,16 +114,11 @@ const i = new Introduction();
 ## Most Used Languages
 
 <div align="center">
-
-  <img 
-    src="https://stats.anuraghazra.dev/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+  <img
+    src="https://gh-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true"
     width="400"
   />
-
 </div>
-
-
 ---
 
 ## 🤝 Connect With Me
