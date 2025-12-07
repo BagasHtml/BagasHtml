@@ -72,7 +72,8 @@
 </div>
 
 <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagashtml&layout=compact&theme=panda&hide_border=false)
+    <!-- GitHub Profile Summary Cards -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagasHtml&theme=dracula)
 </div>
 
 ## 📈 Contribution Graph
