@@ -112,17 +112,16 @@ const i = new Introduction();
 ---
 
 ## Most Used Languages
+
 <div align="center">
 
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"
+    src="https://readme-stats.clckblog.space/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8"
     alt="Top Languages"
     width="400"
   />
 
 </div>
-
-
 ---
 
 ## 🤝 Connect With Me
