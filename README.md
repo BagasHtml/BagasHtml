@@ -4,14 +4,40 @@
 
 </div>
 
+## 👋 About Me
+
+<div align="center">
+
+**Passionate Web Developer from Indonesia 🇮🇩**
+
+Building modern web applications with a focus on clean code and user experience  
+Currently exploring full-stack development and open source contributions
+
+</div>
+
+---
+
 ## 👨‍💻 Introduction TypeScript Version
 
-```TypeScript
-class Introduction {
-    public name:string = "Bagas Tresna Nanda MS";
-    public techStack:string[] = ["HTML", "Css", "JavaScript", "TypeScript", "PHP", "Laravel", "Tailwind", "Bootstrap", "MySQL", "NodeJs"];
-    public tools:string[] = ["VsCode", "Canva", "Git", "GitHub", "XAMPP", "NPM"];
-    public operationSystem:string[] = ["Arch Linux", "Windows 11"];
+```typescript
+interface Developer {
+    name: string;
+    techStack: string[];
+    tools: string[];
+    operationSystem: string[];
+}
+
+class Introduction implements Developer {
+    public readonly name: string = "Bagas Tresna Nanda MS";
+    public readonly techStack: string[] = [
+        "HTML", "CSS", "JavaScript", "TypeScript", 
+        "PHP", "Laravel", "Tailwind", "Bootstrap", 
+        "MySQL", "Node.js"
+    ];
+    public readonly tools: string[] = [
+        "VS Code", "Canva", "Git", "GitHub", "XAMPP", "NPM"
+    ];
+    public readonly operationSystem: string[] = ["Arch Linux", "Windows 11"];
 
     constructor() {
         this.showName();
@@ -20,34 +46,36 @@ class Introduction {
         this.showOS();
     }
 
-    showName() {
-        console.log(`Hello People. I'm ${this.name}`);
+    private showName(): void {
+        console.log(`Hello People! I'm ${this.name} 👋`);
     }
 
-    showTech() {
-        console.log(`This my TechStack: ${this.techStack.join(',' )}`);
+    private showTech(): void {
+        console.log(`Tech Stack: ${this.techStack.join(', ')}`);
     }
 
-    showTools() {
-        console.log(`Tools I use: ${this.tools.join(',' )}`);
+    private showTools(): void {
+        console.log(`Tools I use: ${this.tools.join(', ')}`);
     }
 
-    showOS() {
-        console.log(`OS I use: ${this.operationSystem.join(', ')}`);
+    private showOS(): void {
+        console.log(`Operating Systems: ${this.operationSystem.join(', ')}`);
     }
 }
 
-const i = new Introduction();
+// Initialize
+const developer = new Introduction();
 ```
 
 <div align="center">
 
 ### 🎯 Current Focus
 
-🚀 Building modern web applications  
-🌱 Learning about PHP, Js, Ts, Laravel, Tailwind, Node.Js<br>
-💡 Exploring new technologies daily  
-🐧 Linux & Open Source enthusiast
+🚀 Building modern web applications with Laravel & Node.js  
+🌱 Learning PHP, JavaScript, TypeScript, Laravel, Tailwind, Node.js  
+💡 Exploring new technologies and best practices daily  
+🐧 Linux & Open Source enthusiast | btw I use Arch  
+🎨 Creating beautiful UI/UX experiences
 
 </div>
 
@@ -82,6 +110,8 @@ const i = new Introduction();
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -95,6 +125,7 @@ const i = new Introduction();
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="180"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180"/>
 
 </div>
@@ -111,14 +142,14 @@ const i = new Introduction();
 
 ---
 
-## Most Used Languages
+## 💻 Most Used Languages
 
 <div align="center">
-  <img
-    src="https://gh-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true"
-    width="400"
-  />
+
+<img src="https://gh-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="450"/>
+
 </div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -127,6 +158,9 @@ const i = new Introduction();
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BagasHtml)
+
+**💬 Feel free to reach out for collaborations or just a friendly chat!**
 
 </div>
 
@@ -142,7 +176,11 @@ const i = new Introduction();
 
 [![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=5&color=6)](https://visitcount.itsvg.in)
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+### ⭐ Don't forget to star my repositories if you find them useful!
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
