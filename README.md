@@ -71,24 +71,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=panda&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&theme=panda&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
