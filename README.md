@@ -2,7 +2,7 @@
 
 # 👋 Ngoding Dulu, Jagonya Belakangan!
 
-<img src="https://miro.medium.com/1*ubCR6WyFNthQVQ9D4AIO9g.gif" width="800">
+<img src="https://miro.medium.com/1*ubCR6WyFNthQVQ9D4AIO9g.gif" width="700">
 
 <br>
 
@@ -41,6 +41,21 @@
 @endphp
 ```
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagas_tresnaa_)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BagasHtml)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@bagastresna)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -71,10 +86,29 @@
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <!-- Tambahin parameter &cache_seconds=1800 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=panda&hide_border=false&cache_seconds=1800)
+
+![](https://github-readme-stats.vercel.app/api?username=BagasHtml&theme=panda&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=BagasHtml&theme=panda&hide_border=false)
+
 </div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagasHtml&theme=dracula)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BagasHtml&theme=dracula)
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -94,7 +128,7 @@
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)
 
 **⭐ Thanks for visiting! Let's build something amazing together! 🚀**
 
