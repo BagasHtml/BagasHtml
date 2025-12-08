@@ -14,31 +14,39 @@
 
 ## 👨‍💻 Introduction
 
-```blade
-@php
-    class Developer
-    {
-        public readonly string $name = "Bagas Tresna Nanda MS";
-        public readonly string $from = "Indonesia 🇮🇩";
-        public readonly string $role = "Full Stack Developer";
-        
-        public array $techStack = [
-            'languages' => ['JavaScript', 'TypeScript', 'PHP'],
-            'frameworks' => ['Laravel', 'React', 'Node.js', 'Tailwind'],
-            'databases' => ['MySQL', 'MariaDB', 'SQLite'],
-            'tools' => ['VS Code', 'Git', 'Apache', 'Vercel']
-        ];
+```ts
+class Introduction {
+    public name: string = "Bagas Tresna Nanda MS";
+    public techStack: string[] = ["HTML", "CSS", "JavaScript", "PHP", "TypeScript"];
+    public tools: string[] = ["VSCode", "Git", "GitHub", "XAMPP"];
+    public database: string[] = ["MySQL", "MariaDB"];
 
-        public function greet(): void
-        {
-            echo "👋 Hi! I'm {$this->name}\n";
-            echo "🚀 {$this->role} from {$this->from}\n";
-        }
+    constructor() {
+        this.showName();
+        this.showTechStack();
+        this.showTools();
+        this.showDatabase();
     }
 
-    $dev = new Developer();
-    $dev->greet();
-@endphp
+    showName() {
+        console.log(`Hello People, I'm ${this.name}`);
+    }
+    
+    showTechStack() {
+        console.log(`And this is my Tech Stack: ${this.techStack.join(", ")}`);
+    }
+
+    showTools() {
+        console.log(`I also use these Tools: ${this.tools.join(", ")}`);
+    }
+
+    showDatabase() {
+        console.log(`For Database, I use: ${this.database.join(", ")}`);
+    }   
+}
+
+const i = new Introduction();
+
 ```
 
 ---
