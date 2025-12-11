@@ -15,23 +15,49 @@
 ## 👨‍💻 Introduction
 
 ```js
-import Name from './name';
-import TechStack from './techStack';
-import Tools from './tools';
+const Name = () => {
+  return <span>Bagas Tresna Nanda MS</span>;
+};
+
+export default Name;
+
+const TechStack = () => {
+  return <span>React, Next.js, Node.js, Express, PHP</span>;
+};
+
+export default TechStack;
+
+const Tools = () => {
+  return <span>VSCode, Git, Postman, XAMPP, Figma</span>;
+};
+
+export default Tools;
+
+const Os = () => {
+  return <span>Windows 10 / 11</span>;
+};
+
+export default Os;
+
+import Name from './Name';
+import TechStack from './TechStack';
+import Tools from './Tools';
 import Os from './Os';
+import './Profile.css'; // optional for styling
 
 const Profile = () => {
-    return (
-        <>
-            <h1>Hello! I'm <Name /></h1>
-            <h1>This My Tech <TechStack /></h1>
-            <h1>Tools I use <Tools /></h1>
-            <h1>My Operating System <Os /></h1>
-        </>
-    );
+  return (
+    <div className="profile-container">
+      <h1>Hello! I'm <Name /></h1>
+      <p>Here’s my tech stack: <TechStack /></p>
+      <p>Tools I frequently use: <Tools /></p>
+      <p>My primary Operating System: <Os /></p>
+    </div>
+  );
 };
 
 export default Profile;
+
 ```
 
 ---
