@@ -14,39 +14,24 @@
 
 ## 👨‍💻 Introduction
 
-```ts
-class Introduction {
-    public name: string = "Bagas Tresna Nanda MS";
-    public techStack: string[] = ["HTML", "CSS", "JavaScript", "PHP", "TypeScript"];
-    public tools: string[] = ["VSCode", "Git", "GitHub", "XAMPP"];
-    public database: string[] = ["MySQL", "MariaDB"];
+```react
+import Name from './name';
+import TechStack from './techStack';
+import Tools from './tools';
+import Os from './Os';
 
-    constructor() {
-        this.showName();
-        this.showTechStack();
-        this.showTools();
-        this.showDatabase();
-    }
-
-    showName() {
-        console.log(`Hello People, I'm ${this.name}`);
-    }
-    
-    showTechStack() {
-        console.log(`And this is my Tech Stack: ${this.techStack.join(", ")}`);
-    }
-
-    showTools() {
-        console.log(`I also use these Tools: ${this.tools.join(", ")}`);
-    }
-
-    showDatabase() {
-        console.log(`For Database, I use: ${this.database.join(", ")}`);
-    }   
+const profile = () => {
+    return (
+        <>
+            <h1>Hello! I'm</h1> <Name />
+            <h1>This My Tech <techStack /></h1>
+            <h1>Tools I use <Tools /></h1>
+            <h1>My Operating System <Os /></h1>
+        </>
+    )
 }
 
-const i = new Introduction();
-
+export default profile;
 ```
 
 ---
