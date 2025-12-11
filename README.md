@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Introduction
 
-```react
+```reactjs
 import Name from './name';
 import TechStack from './techStack';
 import Tools from './tools';
