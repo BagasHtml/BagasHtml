@@ -15,46 +15,32 @@
 ## 👨‍💻 Introduction
 
 ```js
-const Name = () => {
-  return <span>Bagas Tresna Nanda MS</span>;
-};
-
-export default Name;
-
-const TechStack = () => {
-  return <span>React, Next.js, Node.js, Express, PHP</span>;
-};
-
-export default TechStack;
-
-const Tools = () => {
-  return <span>VSCode, Git, Postman, XAMPP, Figma</span>;
-};
-
-export default Tools;
-
-const Os = () => {
-  return <span>Windows 10 / 11</span>;
-};
-
-export default Os;
-
+import React, { Component } from 'react';
 import Name from './Name';
 import TechStack from './TechStack';
 import Tools from './Tools';
 import Os from './Os';
-import './Profile.css'; // optional for styling
+import { ProfileInfo } from './types';
 
-const Profile = () => {
-  return (
-    <div className="profile-container">
-      <h1>Hello! I'm <Name /></h1>
-      <p>Here’s my tech stack: <TechStack /></p>
-      <p>Tools I frequently use: <Tools /></p>
-      <p>My primary Operating System: <Os /></p>
-    </div>
-  );
-};
+class Profile extends Component {
+  profileData: ProfileInfo = {
+    name: "Bagas Tresna Nanda MS",
+    techStack: ["React", "Laravel", "Node.js", "React", "PHP", "HTML", "Css", "TypeScript", "JavaScript", "Tailwind Css", "BootStrap", "Astro"],
+    tools: ["VSCode", "Git", "XAMPP", "NPM"],
+    os: "Windows 10 / 11",
+  };
+
+  render() {
+    return (
+      <div style={{ padding: 20, maxWidth: 600, margin: "auto", background: "#f4f4f4", borderRadius: 10 }}>
+        <h1>Hello! I'm <Name name={this.profileData.name} /></h1>
+        <p>Tech Stack: <TechStack stack={this.profileData.techStack} /></p>
+        <p>Tools I use: <Tools tools={this.profileData.tools} /></p>
+        <p>Operating System: <Os os={this.profileData.os} /></p>
+      </div>
+    );
+  }
+}
 
 export default Profile;
 
