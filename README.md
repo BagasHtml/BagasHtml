@@ -14,24 +14,24 @@
 
 ## 👨‍💻 Introduction
 
-```reactjs
+```js
 import Name from './name';
 import TechStack from './techStack';
 import Tools from './tools';
 import Os from './Os';
 
-const profile = () => {
+const Profile = () => {
     return (
         <>
-            <h1>Hello! I'm</h1> <Name />
-            <h1>This My Tech <techStack /></h1>
+            <h1>Hello! I'm <Name /></h1>
+            <h1>This My Tech <TechStack /></h1>
             <h1>Tools I use <Tools /></h1>
             <h1>My Operating System <Os /></h1>
         </>
-    )
-}
+    );
+};
 
-export default profile;
+export default Profile;
 ```
 
 ---
