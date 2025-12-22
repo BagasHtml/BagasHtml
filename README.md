@@ -27,7 +27,7 @@ class Profile extends Component {
     name: "Bagas Tresna Nanda MS",
     techStack: ["React", "Laravel", "Node.js", "React", "PHP", "HTML", "Css", "TypeScript", "JavaScript", "Tailwind Css", "BootStrap", "Astro"],
     tools: ["VSCode", "Git", "XAMPP", "NPM"],
-    os: "Windows 10 / 11",
+    os: "Windows 11 / Arch Linux",
   };
 
   render() {
@@ -89,6 +89,10 @@ export default Profile;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
 ---
