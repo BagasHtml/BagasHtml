@@ -133,7 +133,7 @@ export default Profile;
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=BagasHtml&icon=0&color=0)
+<img src="https://media1.tenor.com/m/zX2dy_j3n4UAAAAd/bocchi-hitori.gif" width="700">
 
 **⭐ Thanks for visiting! Let's build something amazing together! 🚀**
 
