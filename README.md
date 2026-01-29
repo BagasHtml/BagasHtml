@@ -2,7 +2,7 @@
 
 # 👋 Ngoding Dulu, Jagonya Belakangan!
 
-<img src="https://miro.medium.com/1*ubCR6WyFNthQVQ9D4AIO9g.gif" width="700">
+<img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="700">
 
 <br>
 
