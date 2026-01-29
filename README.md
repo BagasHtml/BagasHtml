@@ -133,7 +133,7 @@ echo $bagas->sayHi();
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagasHtml&theme=dracula)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BagasHtml&theme=dracula)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BagasHtml&show_icons=true&locale=en&layout=compact" alt="BagasHtml" /></p>
 </div>
 
 ---
