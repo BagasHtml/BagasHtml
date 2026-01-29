@@ -8,11 +8,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;I'm+Bagas Tresna+Nanda MS....;Back+end+enthusiast&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&pause=1000&color=4ECCA3&center=true&vCenter=true&width=600&lines=Hii+There!+👋;I'm+Bagas+Tresna+Nanda;Back-end+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
-**Bagas Tresna Nanda MS** | Code Learner 🚀
+**Bagas Tresna Nanda MS** | Code Learner | Backend enthusiast 🚀
 
 </div>
 
@@ -133,7 +133,6 @@ echo $bagas->sayHi();
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagasHtml&theme=dracula)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BagasHtml&theme=dracula)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bagas-Html&show_icons=true&locale=en&layout=compact" alt="BagasHtml" /></p>
 </div>
 
 ---
