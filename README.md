@@ -88,15 +88,14 @@ echo $bagas->sayHi();
 ## 💻 Tech Stack
 
 <div align="center">
----
+  
 <h1 align="center">Language</h1>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- ---
 
- ---
 
 <h1 align="center">Framework & Runtime</h1>
 
@@ -106,19 +105,11 @@ echo $bagas->sayHi();
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
----
-
----
-
 <h1 align="center">Database</h1>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/cloud_firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
----
 
 <h1 align="center">Tools & Deploy</h1>
 
@@ -130,7 +121,6 @@ echo $bagas->sayHi();
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 <h1 align="center">Os & Text Editor</h1>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
