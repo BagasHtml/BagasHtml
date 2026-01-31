@@ -20,54 +20,37 @@
 
 ## 👨‍💻 Introduction
 
-```php
-<?php
+```ts
+export {};
+class Introduction {
+  public name: string;
+  public techStacks: any;
 
-class Learner {
-    private string $name;
-    private array $techStack;
-    private array $tools;
-    private string $os;
-    private string $currentFocus;
+  constructor() {
+    this.name = "Bagas Tresna Nanda MS";
+    this.techStacks = {
+      language: "HTML, Css, Js, PHP",
+      framework: "Laravel, Bootstrap, NodeJs, Express",
+      tools: "Laragon, NPM, XAMPP, Canva, Git, GitHub, VsCode",
+      os: "Windows 11, Arch Linux",
+    };
+  }
 
-    public function __construct() {
-        $this->name = "Bagas Tresna Nanda MS";
-        $this->techStack = [
-            "languages" => ["PHP", "JavaScript", "HTML", "CSS"],
-            "frameworks" => ["Laravel", "Node.js"],
-            "styling" => ["Bootstrap"]
-        ];
-        $this->tools = ["VSCode", "Git", "XAMPP", "NPM", "Composer"];
-        $this->os = "Windows 11 / Arch Linux";
-        $this->currentFocus = "Building scalable web applications";
-    }
+  sayHi() {
+    console.log(`Hello People, I'm ${this.name} nice to meet you!`);
+  }
 
-    public function sayHi(): string {
-        return "Hey! I'm {$this->name}, a passionate web developer " .
-               "who loves turning ideas into reality through code! 🚀";
-    }
-
-    public function getCurrentlyLearning(): array {
-        return [
-            "Advanced Laravel Patterns",
-            "Modern JavaScript (ES6+)",
-            "Database Optimization",
-            "Clean Code Principles"
-        ];
-    }
-
-    public function getGoals(): array {
-        return [
-            "Master full-stack development",
-            "Contribute to open source",
-            "Build impactful projects",
-            "Share knowledge with the community"
-        ];
-    }
+  showTech() {
+    console.log(`And this, my simple TechStacks: `);
+    console.table(this.techStacks);
+  }
 }
 
-$bagas = new Learner();
-echo $bagas->sayHi();
+const i = new Introduction();
+
+i.sayHi();
+i.showTech();
+
 ```
 
 ---
