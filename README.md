@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Introduction
 
-```blade
+```php
 namespace GitHub\BagasTresnaNanda;
 
 use App\Traits\LearningPath;
