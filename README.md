@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Introduction
 
-```laravel
+```blade
 namespace GitHub\BagasTresnaNanda;
 
 use App\Traits\LearningPath;
