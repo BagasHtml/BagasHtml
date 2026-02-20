@@ -20,36 +20,54 @@
 
 ## 👨‍💻 Introduction
 
-```ts
-export {};
-class Introduction {
-  public name: string;
-  public techStacks: any;
+```laravel
+namespace GitHub\BagasTresnaNanda;
 
-  constructor() {
-    this.name = "Bagas Tresna Nanda MS";
-    this.techStacks = {
-      language: "HTML, Css, Js, PHP",
-      framework: "Laravel, Bootstrap, NodeJs, Express",
-      tools: "Laragon, NPM, XAMPP, Canva, Git, GitHub, VsCode",
-      os: "Windows 11, Arch Linux",
-    };
-  }
+use App\Traits\LearningPath;
+use App\Interfaces\BackendDeveloper;
 
-  sayHi() {
-    console.log(`Hello People, I'm ${this.name} nice to meet you!`);
-  }
+/**
+ * Bagas Tresna Nanda MS
+ * A passionate Backend Learner.
+ */
+class Bio extends Developer implements BackendDeveloper
+{
+    use LearningPath;
 
-  showTech() {
-    console.log(`And this, my simple TechStacks: `);
-    console.table(this.techStacks);
-  }
+    public function __construct()
+    {
+        $this->name = 'Bagas Tresna Nanda MS';
+        $this->role = 'Backend Learner & Enthusiast';
+        $this->motto = 'Turning logic into reality, one repository at a time.';
+    }
+
+    public function getTechStack(): array
+    {
+        return [
+            'languages' => [
+                'PHP', 'JavaScript', 'HTML5', 'CSS3'
+            ],
+            'frameworks' => [
+                'Laravel', 'Express.js', 'Node.js', 'Bootstrap'
+            ],
+            'databases' => [
+                'MySQL', 'MariaDB', 'Cloud Firestore'
+            ],
+            'tools_and_deploy' => [
+                'Git', 'GitHub', 'Firebase', 'NPM', 'Vercel', 'Apache', 'Canva'
+            ],
+            'environment' => [
+                'OS' => 'Linux',
+                'Editor' => 'Visual Studio Code'
+            ]
+        ];
+    }
+
+    public function currentActivity(): string
+    {
+        return "Focusing on mastering Laravel's Repository Pattern and Clean Architecture.";
+    }
 }
-
-const i = new Introduction();
-
-i.sayHi();
-i.showTech();
 
 ```
 
