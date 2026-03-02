@@ -2,7 +2,7 @@
 
 # 👋 Ngoding Dulu, Jagonya Belakangan!
 
-<img src="https://media.tenor.com/qyBA8EgqkrwAAAAe/anko-uguisa-anko.png" width="700">
+<img src="https://i.pinimg.com/originals/a4/1c/7d/a41c7ddb98b7ebb25c0efe81a9708f6e.gif" width="700">
 
 <br>
 
