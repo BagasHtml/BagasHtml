@@ -15,17 +15,22 @@
 **Bagas Tresna Nanda MS** | Code Learner | Backend enthusiast 🚀
 
 </div>
-```
-<div>
+
+<br>
+
+<div align="center">
   <h1>About Me</h1>
   <p>
     Hello People. I'm Bagas Tresna Nanda Mustida Sakli. you can call me Bagas. I from Indonesia, Bekasi West Java.
     I studied software engineering at Taruna Bangsa Vocational School in Bekasi City.
 
    As a software engineering student, I explored many things like PHP, HTML, CSS, JavaScript, and Linux—basically, anything related to software. I really enjoyed it.
+
+   I also possess soft skills such as teamwork and public speaking.
+
+   Besides exploring software, I'm also actively involved in the RPL Production Unit organization as a computer technician.
   </p>
 </div>
----
 
 ## 👨‍💻 Introduction
 
