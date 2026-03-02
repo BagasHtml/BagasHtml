@@ -2,7 +2,7 @@
 
 # 👋 Ngoding Dulu, Jagonya Belakangan!
 
-<img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif" width="700">
+<img src="https://media.tenor.com/-nSI7P_Ltq4AAAAM/anko-uguisu-anime.gif" width="700">
 
 <br>
 
@@ -30,7 +30,7 @@ use App\Interfaces\BackendDeveloper;
  * Bagas Tresna Nanda MS
  * A passionate Backend Learner.
  */
-class Bio extends Developer implements BackendDeveloper
+class Bio extends Learner implements BackendLearner
 {
     use LearningPath;
 
