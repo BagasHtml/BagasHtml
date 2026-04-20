@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Ngoding Dulu, Jagonya Belakangan!
@@ -21,68 +20,17 @@
 
 <div align="center">
   <h1>About Me</h1>
+  <p>
+    Hello People. I'm Bagas Tresna Nanda Mustida Sakli. you can call me Bagas. I from Indonesia, Bekasi West Java.
+    I studied software engineering at Taruna Bangsa Vocational School in Bekasi City.
+
+   As a software engineering student, I explored many things like PHP, HTML, CSS, JavaScript, and Linux—basically, anything related to software. I really enjoyed it.
+
+   I also possess soft skills such as teamwork and public speaking.
+
+   Besides exploring software, I'm also actively involved in the RPL Production Unit organization as a computer technician.
+  </p>
 </div>
-
-<p align="center">
-  Hello People. I'm Bagas Tresna Nanda Mustida Sakli. you can call me Bagas. I from Indonesia, Bekasi West Java.<br>
-  I studied software engineering at Taruna Bangsa Vocational School in Bekasi City.<br><br>
-  As a software engineering student, I explored many things like PHP, HTML, CSS, JavaScript, and Linux—basically, anything related to software. I really enjoyed it.<br><br>
-  I also possess soft skills such as teamwork and public speaking.<br><br>
-  Besides exploring software, I'm also actively involved in the RPL Production Unit organization as a computer technician.
-</p>
-
-## 👨‍💻 Introduction
-
-```php
-namespace GitHub\BagasTresnaNanda;
-
-use App\Traits\LearningPath;
-use App\Interfaces\BackendDeveloper;
-
-/**
- * Bagas Tresna Nanda MS
- * A passionate Backend Learner.
- */
-class Bio extends Learner implements BackendLearner
-{
-    use LearningPath;
-
-    public function __construct()
-    {
-        $this->name = 'Bagas Tresna Nanda MS';
-        $this->role = 'Backend Learner & Enthusiast';
-        $this->motto = 'Turning logic into reality, one repository at a time.';
-    }
-
-    public function getTechStack(): array
-    {
-        return [
-            'languages' => [
-                'PHP', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'
-            ],
-            'frameworks' => [
-                'Laravel', 'Astro', 'Express.js', 'Node.js', 'Bootstrap'
-            ],
-            'databases' => [
-                'MySQL', 'MariaDB', 'Cloud Firestore'
-            ],
-            'tools_and_deploy' => [
-                'Git', 'GitHub', 'Firebase', 'NPM', 'Vercel', 'Apache', 'Canva'
-            ],
-            'environment' => [
-                'OS' => 'Linux',
-                'Editor' => 'Visual Studio Code'
-            ]
-        ];
-    }
-
-    public function currentActivity(): string
-    {
-        return "Focusing on mastering Laravel's Repository Pattern and Clean Architecture.";
-    }
-}
-```
-
 ---
 
 ## 🌐 Connect With Me
@@ -102,30 +50,22 @@ class Bio extends Learner implements BackendLearner
 
 <div align="center">
   
-**Language**
+**Skills**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-**Framework & Runtime**
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-**Database**
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/cloud_firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Deploy**
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -134,8 +74,6 @@ class Bio extends Learner implements BackendLearner
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-**Os & Text Editor**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -187,4 +125,3 @@ class Bio extends Learner implements BackendLearner
 **⭐ Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
-```
