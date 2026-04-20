@@ -31,7 +31,6 @@
    Besides exploring software, I'm also actively involved in the RPL Production Unit organization as a computer technician.
   </p>
 </div>
----
 
 ## 🌐 Connect With Me
 
@@ -43,8 +42,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagashtml369@gmail.com)
 
 </div>
-
----
 
 ## 💻 Tech Stack
 
