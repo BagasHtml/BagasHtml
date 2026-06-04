@@ -17,6 +17,24 @@
 </div>
 
 <br>
+```go
+package introduce
+
+func Introduction() (string, []string) {
+	name := "Bagas Tresna Nanda MS"
+	
+	tech := []string{
+		"HTML",
+		"PHP",
+		"Javascript",
+		"Typescript",
+		"Golang",
+	}
+
+	return name, tech
+}
+---
+<br>
 
 <div align="center">
   <h1>About Me</h1>
