@@ -12,6 +12,35 @@ I'm Bagas Tresna Nanda MS, a Software Engineering student from Indonesia.
 
 I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently, I'm focusing on backend development using PHP, Laravel, and Go.
 
+```go
+package main
+
+type Developer struct {
+	Name     string
+	Role     string
+	Location string
+	Tech     []string
+}
+
+func NewDeveloper() Developer {
+	return Developer{
+		Name:     "Bagas Tresna Nanda MS",
+		Role:     "Backend Development Enthusiast",
+		Location: "Indonesia",
+		Tech: []string{
+			"Go",
+			"PHP",
+			"Laravel",
+			"TypeScript",
+			"JavaScript",
+			"MySQL",
+			"Linux",
+		},
+	}
+}
+```
+
+
 ## 🎯 Current Focus
 
 - Learning backend development
@@ -55,8 +84,8 @@ Financial management application for school administration.
 ### Production Unit Management System
 Internal management system for vocational school production units.
 
-### REST API'S Ai Waste
-Learning create Rest Api's use API Key.
+### AI Waste REST API
+REST API project integrating external APIs using API Keys.
 
 ## 📊 GitHub Stats
 
