@@ -10,8 +10,10 @@ Backend Development Enthusiast • Software Engineering Student
 
 I'm Bagas Tresna Nanda MS, a Software Engineering student from Indonesia.
 
-I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently, I'm focusing on backend development using PHP, Laravel, and Go.
+I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently, I'm focusing on backend development using PHP, Laravel, Typescript and Go.
 
+
+## Go Introduce
 ```go
 package main
 
