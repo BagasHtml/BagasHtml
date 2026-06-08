@@ -78,21 +78,6 @@ func NewDeveloper() Developer {
 - VS Code
 - Apache
 
-## 🚀 Featured Projects
-
-### School Finance System
-Financial management application for school administration.
-
-### Production Unit Management System
-Internal management system for vocational school production units.
-
-### AI Waste REST API
-REST API project integrating external APIs using API Keys.
-
-## 📊 GitHub Stats
-
-<!-- github stats -->
-
 ## 🌐 Connect With Me
 
 - Instagram: @bagas_tresnaa_
