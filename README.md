@@ -6,82 +6,40 @@ Backend Development Enthusiast • Software Engineering Student
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm Bagas Tresna Nanda MS, a Software Engineering student from Indonesia.
 
-I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently, I'm focusing on backend development using PHP, Laravel, Typescript and Go.
+I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently focusing on backend development using PHP, Laravel, TypeScript, and Go.
 
+## Current Focus
 
-## Go Introduce
-```go
-package main
+- Backend development & REST APIs
+- Software architecture & clean code
+- Linux and Git workflow
+- RFID Attendance System (Express + TypeScript + MySQL)
 
-type Developer struct {
-	Name     string
-	Role     string
-	Location string
-	Tech     []string
-}
+## Tech Stack
 
-func NewDeveloper() Developer {
-	return Developer{
-		Name:     "Bagas Tresna Nanda MS",
-		Role:     "Backend Development Enthusiast",
-		Location: "Indonesia",
-		Tech: []string{
-			"Go",
-			"PHP",
-			"Laravel",
-			"TypeScript",
-			"JavaScript",
-			"MySQL",
-			"Linux",
-		},
-	}
-}
-```
+**Backend:** PHP, Laravel, Go, Node.js, Express.js
+**Frontend:** HTML, CSS, JavaScript, TypeScript, Bootstrap
+**Database:** MySQL, MariaDB, Firestore
+**Tools:** Git, Linux, VS Code, Apache
 
+## GitHub Stats
 
-## 🎯 Current Focus
+<div align="center">
 
-- Learning backend development
-- Building REST APIs
-- Exploring software architecture
-- Improving Linux and Git skills
+![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BagasHtml&show_icons=true&theme=transparent&hide_border=true)
 
-## 💻 Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=transparent&hide_border=true)
 
-### Backend
-- PHP
-- Laravel
-- Go
-- Node.js
-- Express.js
+</div>
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Bootstrap
+## Connect
 
-### Database
-- MySQL
-- MariaDB
-- Firestore
-
-### Tools
-- Git
-- GitHub
-- Linux
-- VS Code
-- Apache
-
-## 🌐 Connect With Me
-
-- Instagram: @bagas_tresnaa_
-- GitHub: BagasHtml
+- Instagram: [@bagas_tresnaa_](https://instagram.com/bagas_tresnaa_)
+- GitHub: [BagasHtml](https://github.com/BagasHtml)
 - Email: bagashtml369@gmail.com
 
 ---
