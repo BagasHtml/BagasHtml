@@ -17,24 +17,20 @@ I enjoy building backend systems, learning software architecture, and exploring 
 - Backend development & REST APIs
 - Software architecture & clean code
 - Linux and Git workflow
-- RFID Attendance System (Express + TypeScript + MySQL)
 
 ## Tech Stack
 
-**Backend:** PHP, Laravel, Go, Node.js, Express.js
-**Frontend:** HTML, CSS, JavaScript, TypeScript, Bootstrap
-**Database:** MySQL, MariaDB, Firestore
-**Tools:** Git, Linux, VS Code, Apache
-
-## GitHub Stats
-
-<div align="center">
-
-![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BagasHtml&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagasHtml&layout=compact&theme=transparent&hide_border=true)
-
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Connect
 
