@@ -12,12 +12,6 @@ I'm Bagas Tresna Nanda MS, a Software Engineering student from Indonesia.
 
 I enjoy building backend systems, learning software architecture, and exploring Linux environments. Currently focusing on backend development using PHP, Laravel, TypeScript, and Go.
 
-## Current Focus
-
-- Backend development & REST APIs
-- Software architecture & clean code
-- Linux and Git workflow
-
 ## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -33,13 +27,3 @@ I enjoy building backend systems, learning software architecture, and exploring 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)
-
-## Connect
-
-- Instagram: [@bagas_tresnaa_](https://instagram.com/bagas_tresnaa_)
-- GitHub: [BagasHtml](https://github.com/BagasHtml)
-- Email: bagashtml369@gmail.com
-
----
-
-> "Code first. Mastery comes later."
