@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi, I'm Bagas 👋
+<p align="center">
+      <img src="https://render.gitanimals.org/lines/bagashtml?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
 
-Backend Development Enthusiast • Software Engineering Student
-
-</div>
-
-## About Me
+## Hello World!.
 
 I'm Bagas Tresna Nanda MS, a Software Engineering student from Indonesia.
 
