@@ -1,5 +1,5 @@
-<div>
-<h1>Hello People! I'm Bagas.</h1>
+<div align="center">
+<h1>Hello People! I'm Bagas Tresno Nanda Mustida Sakli.</h1>
 </div>
 
 <br>
